@@ -1,5 +1,6 @@
 2.3.0 (2023-08-08)
 -------------------
+Kunal Kunal
 
 *Changes*
 - Update dependencies:
